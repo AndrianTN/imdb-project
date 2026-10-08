@@ -1,0 +1,15 @@
+# Віртуальне середовище Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Конфігурації VS Code
+.vscode/
+
+# Дані та тимчасові файли
+*.csv
+*.tsv
+*.parquet
+data/
+output/
